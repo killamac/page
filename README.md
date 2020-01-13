@@ -10,6 +10,11 @@ Things you may want to cover:
 * System dependencies
 
 * Configuration
+al clonar el proyecto luego correr los siguientes comandos en la terminal
+yarn install --check-files
+rake db:create
+rake db:migrate
+rails s
 
 * Database creation
 
